@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sample-content-generator\n"
+"POT-Creation-Date: 2014-02-25 15:44+0100\n"
+"PO-Revision-Date: 2014-02-25 15:44+0100\n"
+"Last-Translator: Jean-Pascal Moreau <jean-pascal@cnsx.fr>\n"
+"Language-Team: Jean-Pascal Moreau <pacomoreau@hotmail.com>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../sample-content-generator.php:73
+msgid "Sample Content Generator"
+msgstr ""
+
+#: ../sample-content-generator.php:155
+msgid "Generate content"
+msgstr "Générer le contenu"
+
+#: ../sample-content-generator.php:167
+msgid "Choose your options"
+msgstr "Choix des options"
+
+#: ../sample-content-generator.php:171
+msgid "Number of paragraphs"
+msgstr "Nombre de paragraphes"
+
+#: ../sample-content-generator.php:175
+msgid "Paragraph length"
+msgstr "Taille des paragraphes"
+
+#: ../sample-content-generator.php:178
+msgid "Short"
+msgstr "Court"
+
+#: ../sample-content-generator.php:179
+msgid "Medium"
+msgstr "Moyen"
+
+#: ../sample-content-generator.php:180
+msgid "Long"
+msgstr "Long"
+
+#: ../sample-content-generator.php:181
+msgid "Very long"
+msgstr "Très long"
+
+#: ../sample-content-generator.php:186
+msgid "Add &ltimg&gt; tags"
+msgstr "Ajouter des balises &ltimg&gt;"
+
+#: ../sample-content-generator.php:190
+msgid "Add &ltb&gt;, &lti&gt;, &ltmark&gt; tags"
+msgstr "Ajouter des balises &ltb&gt;, &lti&gt; et &ltmark&gt;"
+
+#: ../sample-content-generator.php:194
+msgid "Replace &ltb&gt; and &lti&gt; tags by &ltstrong&gt; and &ltem&gt;"
+msgstr ""
+"Remplacer les balises &ltb&gt; et &lti&gt; par &ltstrong&gt; et &ltem&gt;"
+
+#: ../sample-content-generator.php:198
+msgid "Add &lta&gt; tags"
+msgstr "Ajouter des balises &lta&gt;"
+
+#: ../sample-content-generator.php:202
+msgid "Add &lt;ul&gt; tags"
+msgstr "Ajouter des balises &lt;ul&gt;"
+
+#: ../sample-content-generator.php:206
+msgid "Add &lt;ol&gt; tags"
+msgstr "Ajouter des balise &lt;ol&gt;"
+
+#: ../sample-content-generator.php:210
+msgid "Add &lt;dl&gt; tags"
+msgstr "Ajouter des balises &lt;dl&gt;"
+
+#: ../sample-content-generator.php:214
+msgid "Add &lt;code&gt; and &lt;pre&gt; tags"
+msgstr "Ajouter des balises &lt;code&gt; et &lt;pre&gt;"
+
+#: ../sample-content-generator.php:218
+msgid "Add &lt;blockquote&gt; tags"
+msgstr "Ajouter des balises &lt;blockquote&gt;"
+
+#: ../sample-content-generator.php:225
+msgid "Generate Content"
+msgstr "Générer le contenu"
+
+#: ../sample-content-generator.php:226
+msgid "Cancel"
+msgstr "Annuler"

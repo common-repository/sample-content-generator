@@ -1,0 +1,37 @@
+/**
+ * Styles for Tiny MCE button and ThickBox content.
+ */
+
+#scg_content {
+	display: none;
+}
+
+.scg_spinner {
+	float: left;
+}
+
+.scg_media_icon {
+	background: url(images/scg-icon.png) no-repeat top left;
+	display: inline-block;
+	height: 16px;
+	margin: 0 2px 0 0;
+	vertical-align: text-top;
+	width: 16px;
+}
+
+.wp-core-ui a.scg_media_link{
+	padding-left: 0.4em;
+}
+
+.form-table.scg th {
+	width: 70%;
+	padding: 10px 15px 10px;
+}
+
+ .form-table.scg td {
+	padding: 10px inherit;
+}
+
+.form-table input[type=number] {
+	width: 50px;
+}
